@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋 me llamo Miza. Soy un programador fullstack 💻:
 ### - 🔭 I’m currently working on
 
 <!--
